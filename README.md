@@ -31,12 +31,8 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 
 ## Quantum Challenge Details
 - You will be doing problem solvings on 4-5 quantum challenge problems, with help from mentors. 
-- Top 5 scores of the challenge will be gifts, provided by IBM Quantum team
+- Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team.
 - A personal computer is required to join the challenge.
-
-
-
-
 
 
 
