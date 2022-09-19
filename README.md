@@ -2,36 +2,41 @@
 Qiskit Fall Fest 2022 at University of Santiago de Compostela (USC)
 
 ## Welcome
-This is the Qiskit Fall Fest event for University of Santiago de Compostela (USC). We're so exciting to have you all here. This event is being hosted by the [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/).
+This is the Qiskit Fall Fest 2022 event page for University of Santiago de Compostela (USC). We're so exciting to have you all here. This event is being hosted at the [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/).
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here on USC is going to be a workshop + quantum challenge, starting on October 21st, Friday, 2022. Details about the event and rules can be found below. The deadline for registration is October 20th, at 3pm CET. We are looking forward to seeing you at the event!
+The Fall Fest at USC this year is going to be a **in-person workshops + quantum challenge** format, starting on October 21st, Friday, 2022. Details about the event and rules can be found below. The deadline for registration is October 20th, at 12pm CET. We are looking forward to seeing you at the event!
 
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). 
-- To officially sign up, register using [this link](https://airtable.com/)
+- To officially sign up, register using [this link](https://airtable.com/shr39F7PSZEi5xgb9)
 
-
-## Workshop Details
-
-
-## Quantum Challenge Details
 
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or [download the PDF here](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf)
+We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of eventsFind the schedule below, or [download the PDF here]()
+
+- 11:30 - 13:30:  Welcome + Workshop lectures
+
+- 13:30 - 15:00:  (Lunch break)
+
+- 15:00 - 17:00:  Quantum challenge
+
+- 17:00 - 18:00:  Final wrap up 
+
+## Workshop Details
+- There will be a total of 3-4 workshop lectures on introduction to quantum computing, quantum computing basics, and experimenting with Qiskit (open-source quantum ecosystem). The lectures will be given by postdocs and graduate students at IGFAE.
+
+## Quantum Challenge Details
+- You will be doing problem solvings on 4-5 quantum challenge problems, with help from mentors. 
+- Top 5 scores of the challenge will be gifts, provided by IBM Quantum team
+- A personal computer is required to join the challenge.
 
 
 
 
-Make sure to join the Discord / email thread / [communication channel](https://google.com) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
-
-<br>
-
-## more
 
 
 
