@@ -27,7 +27,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - 17:00 - 18:00:  Final wrap up 
 
 ## Workshop Details
-- There will be a total of 3-4 workshop lectures on introduction to quantum computing, quantum computing basics, and experimenting with Qiskit (open-source quantum ecosystem). The lectures will be given by postdocs and graduate students at IGFAE.
+- There will be a total of 3-4 workshop lectures on introduction to quantum computing, quantum computing basics, and experimenting with Qiskit (open-source quantum ecosystem). The lectures will be given by quantum computing experts at IGFAE.
 
 ## Quantum Challenge Details
 - You will be doing problem solvings on 4-5 quantum challenge problems, with help from mentors. 
