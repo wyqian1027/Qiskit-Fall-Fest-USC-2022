@@ -1,6 +1,6 @@
-# Quantum challenges
+# Quantum Challenges
 
-## Qiskit installation
+## Qiskit Installation
 
 - It is advised to install Qiskit library properly on your computer before starting the quantum challenge
 - Here is the recommended installation procedure using Conda package manager.
@@ -14,3 +14,12 @@ jupyter lab
 ```
 5. Additional packages such as Numpy will also need to be installed with either Conda or Pip.
 
+## Solving Quantum Challenges
+
+## Submission
+- Please include a Qiskit version summary at the end of your submitted Jupyter notebook.
+```python
+import qiskit.tools.jupyter
+%qiskit_version_table
+%qiskit_copyright
+```
