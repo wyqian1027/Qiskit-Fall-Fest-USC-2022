@@ -16,15 +16,15 @@ The Fall Fest at USC this year is going to be a **in-person workshops + quantum 
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events. Find the schedule below, or [download the PDF here (TBA)]()
+We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events. All time are in Spain time zone (CET). Find the schedule below, or [download the PDF here (TBA)]().
 
-- 11:30 - 13:30:  Welcome + Workshop lectures
-
-- 13:30 - 15:00:  (Lunch break)
-
-- 15:00 - 17:00:  Quantum challenge
-
-- 17:00 - 18:00:  Final wrap up 
+| Event                                  |                 |
+|:---------------------------------------|:---------------:|
+| Welcome                                | 11:30 - 11:40   |
+| Workshop lectures                      | 11:40 - 13:00   |
+| (Lunch break)                          | 13:30 - 15:00   |
+| Quantum challenge                      | 15:00 - 17:00   |
+| Final wrap up                          | 17:00 - 18:00   |
 
 ## Workshop Details
 - There will be a total of 3-4 workshop lectures on introduction to quantum computing, quantum computing basics, and experimenting with Qiskit (open-source quantum ecosystem). The lectures will be given by quantum computing experts at IGFAE.
