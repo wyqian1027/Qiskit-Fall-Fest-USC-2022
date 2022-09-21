@@ -16,7 +16,7 @@ The Fall Fest at USC this year is going to be a **in-person workshops + quantum 
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of eventsFind the schedule below, or [download the PDF here]()
+We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events. Find the schedule below, or [download the PDF here (TBA)]()
 
 - 11:30 - 13:30:  Welcome + Workshop lectures
 
