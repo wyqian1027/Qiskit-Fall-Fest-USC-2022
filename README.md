@@ -21,7 +21,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 | Event                                  |                 |
 |:---------------------------------------|:---------------:|
 | Welcome                                | 11:30 - 11:40   |
-| Workshop lectures                      | 11:40 - 13:00   |
+| Workshop lectures                      | 11:40 - 13:30   |
 | (Lunch break)                          | 13:30 - 15:00   |
 | Quantum challenge                      | 15:00 - 17:00   |
 | Final wrap up                          | 17:00 - 18:00   |
