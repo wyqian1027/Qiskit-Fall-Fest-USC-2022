@@ -24,13 +24,15 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 | Workshop lectures                      | 11:40 - 13:30   |
 | (Lunch break)                          | 13:30 - 15:00   |
 | Quantum challenge                      | 15:00 - 17:00   |
-| Final wrap up                          | 17:00 - 18:00   |
+| Discussion                             | 17:00 - 17:45   |
+| Research in Quantum computing          | 17:45 - 18:30   |
 
-## Workshop Details
-- There will be a total of 3-4 workshop lectures on introduction to quantum computing, quantum computing basics, and experimenting with Qiskit (open-source quantum ecosystem). The lectures will be given by quantum computing experts at IGFAE.
+## Workshop Lecture Details
+- The lectures will be given by quantum computing experts at IGFAE.
+- This year's lectures will cover introduction to quantum computing, quantum computing basics, quantum algorithm, and experimenting with Qiskit (open-source quantum ecosystem).
 
 ## Quantum Challenge Details
-- You will be doing problem solvings on 4-5 quantum challenge problems, with help from mentors. 
+- You will be doing problem solvings on 3-4 quantum challenge problems, related to the workshop lectures, with help from mentors. 
 - Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team.
 - A personal computer is required to join the challenge.
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
