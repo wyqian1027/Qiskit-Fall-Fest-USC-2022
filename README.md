@@ -37,7 +37,11 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - A personal computer is required to join the challenge.
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
 
-
+## Organizers
+Wenyang Qian
+Meijian Li
+Juan Santos Suárez
+Xoán Mayo López
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
