@@ -33,9 +33,10 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 
 ## Quantum Challenge Details
 - You will be doing problem solvings on 3-4 quantum challenge problems, related to the workshop lectures, with help from mentors. 
-- Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team.
+- Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team (fall fest-themed Qiskit swag pack, including a hat, art supplies, and more). 
 - A personal computer is required to join the challenge.
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
+
 
 ## Organizers
 Wenyang Qian  
