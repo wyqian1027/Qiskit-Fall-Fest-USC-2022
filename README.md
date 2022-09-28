@@ -1,7 +1,7 @@
 [README en Galego](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/README_GALEGO.md)
 
 # Qiskit-Fall-Fest-USC-2022 
-Qiskit Fall Fest 2022 at University of Santiago de Compostela (USC), A Coruña, Spain
+Qiskit Fall Fest 2022 at University of Santiago de Compostela (USC), A Coruña, Spain (October 21st, Friday, 2022)
 
 ## Welcome
 This is the Qiskit Fall Fest 2022 event page for University of Santiago de Compostela (USC). We're so exciting to have you all here. This event is being hosted at the [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/).
