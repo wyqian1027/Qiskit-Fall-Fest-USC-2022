@@ -34,7 +34,7 @@ Estamos orgullosos de traervos o Qiskit Fall Fest á USC. O noso equipo de organ
 ## Detalles do desafío cuántico
 - Consistirá en solucionar 3-4 problemas sobre computación cuántica relacionados coas leccións do workshop e coa axuda dos mentores.
 - As 5 mellores puntuacións no desafio recibirán premios especiais  de parte do IBM Quantum team.
-- Precisarase un orderador persoal para poder participar no desafío.
+- Precisarase un ordenador persoal para poder participar no desafío.
 - Aconséllase instalar os entornos e paquetes oportunos antes do inicio do desafío (Ver [instrucións](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) aquí). Se houbese algún problema na instalación, os mentores intentarán solucionalo ao inicio do mesmo.
 
 
