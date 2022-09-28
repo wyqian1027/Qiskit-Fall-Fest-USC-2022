@@ -1,3 +1,5 @@
+[README in English](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/README.md)
+
 # Qiskit-Fall-Fest-USC-2022
 Qiskit Fall Fest 2022 na Universidade de Santiago de Compostela (USC), A Coruña, España
 
