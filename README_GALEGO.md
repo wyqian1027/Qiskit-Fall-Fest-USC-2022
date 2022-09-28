@@ -6,9 +6,9 @@ Qiskit Fall Fest 2022 na Universidade de Santiago de Compostela (USC), A Coruña
 ## Benvidos
 Este é a páxina oficial para o evento Qiskit Fall Fest 2022 organizado pola Universidade de Santiago de Compostela (USC). Estamos encantados de tervos a todos aquí. O evento terá lugar no [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/).
 
-O [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) é un conxunto de eventos sobre computación cuántica en campus universitarios arredor de todo o mundo. Cada evento está organizado polos estudantes locais, co apoio do grupo IBM Quantum team. Os estudantes organizadores traballan co equipo de IBM no mes de setembro para deseñar e organizar o evento, que ten lugar en outubro. Estes eventos cubren dende desafios para principiantes ata hackathons máis técinos, todo pensado para impulsar o crecemento da computación cuántica na comunidade universitaria local. 
-
 O Fall Fest deste ano na USC vai ter un formato **workshop presencial + desafíos cuánticos**, e comezará o venres 21 de outubro de 2022. As regras e máis detalles do evento pódense atopar a continuación. A fecha límite para rexistrarse é o 20 de outubro as 12pm. Estamos esperando verte!
+
+O [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) é un conxunto de eventos sobre computación cuántica en campus universitarios arredor de todo o mundo. Cada evento está organizado polos estudantes locais, co apoio do grupo IBM Quantum team. Os estudantes organizadores traballan co equipo de IBM no mes de setembro para deseñar e organizar o evento, que ten lugar en outubro. Estes eventos cubren dende desafios para principiantes ata hackathons máis técinos, todo pensado para impulsar o crecemento da computación cuántica na comunidade universitaria local. 
 
 --------------------------------
 ## Rexistro Oficial
