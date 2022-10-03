@@ -33,7 +33,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - The lectures will be given by quantum computing experts at IGFAE.
 - This year's lectures will cover introduction to quantum computing, quantum computing basics, quantum algorithm, and experimenting with Qiskit (open-source quantum ecosystem).
 
-## Quantum Challenge Details
+## Quantum Challenge Details (in-person only) 
 - You will be doing problem solvings on 3-4 quantum challenge problems, related to the workshop lectures, with help from mentors. 
 - Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team (fall fest-themed Qiskit swag pack, including a hat, art supplies, and more). 
 - A personal computer is required to join the challenge.
