@@ -33,7 +33,7 @@ Estamos orgullosos de traervos o Qiskit Fall Fest á USC. O noso equipo de organ
 - As leccións van ser impartidas por expertos en computación cuántica do IGFAE.
 - As leccións deste ano van a cubrir unha introdución á computación cuántica, fundamentos da computación cuántica, algoritmos cuánticos, e experimentos con Qiskit (un ecosistema cuántico de código aberto).
 
-## Detalles do desafío cuántico
+## Detalles do desafío cuántico (só en persoa)
 - Consistirá en solucionar 3-4 problemas sobre computación cuántica relacionados coas leccións do workshop e coa axuda dos mentores.
 - As 5 mellores puntuacións no desafio recibirán premios especiais  de parte do IBM Quantum team.
 - Precisarase un ordenador persoal para poder participar no desafío.
