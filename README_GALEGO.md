@@ -18,7 +18,7 @@ O [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) é un conxunto de eve
 --------------------------------
 ## Horario
 
-Estamos orgullosos de traervos o Qiskit Fall Fest á USC. O noso equipo de organizadores preparou o seguinte horario que podes atopar a continuación ou [descargar en pdf aqui(TBA)]().
+Estamos orgullosos de traervos o Qiskit Fall Fest á USC. O noso equipo de organizadores preparou o seguinte horario que podes atopar a continuación ou [descargar en pdf aqui](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/Flyer.pdf).
 
 | Evento                                 |                 |
 |:---------------------------------------|:---------------:|
