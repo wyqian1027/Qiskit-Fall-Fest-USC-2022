@@ -18,7 +18,7 @@ The [Qiskit Fall Fest](https://qiskit.org/events/fall-fest/) is a collection of 
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events. All time are in Spain time zone (CET). Find the schedule below, or [download the PDF here](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/Flyer.pdf).
+We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events. All time are in Spain time zone (CET). Find the schedule below:
 
 | Event                                  |                 |
 |:---------------------------------------|:---------------:|
