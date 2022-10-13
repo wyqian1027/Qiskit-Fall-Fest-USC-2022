@@ -14,7 +14,12 @@ jupyter lab
 ```
 5. Additional packages such as Numpy will also need to be installed with either Conda or Pip.
 
-## Solving Quantum Challenges
+## During Quantum Challenge
+
+- The quantum challenge questions will be available to download at the start of the quantum challenge.
+- You will work through the provided Jupyter notebook by providing your solutions to each problem.
+- You are allowed to ask installation related questions during the quantum challenge. Local mentors will be around to help you with the installation.
+- You are asked to work on the problem on your own. 
 
 ## Submission
 - Please include a Qiskit version summary at the end of your submitted Jupyter notebook.
@@ -23,3 +28,10 @@ import qiskit.tools.jupyter
 %qiskit_version_table
 %qiskit_copyright
 ```
+- Please submit your solution notebook to Meijian via meijian.li@usc.es
+
+## After the Quantum Challenge
+
+- We will discuss the quantum problems during the Discussion period, and the solution will appear on Github shortly after the event.
+- The submitted notebook will be graded by (1) Correctness (2) Submission time.
+- The top scores will be contacted by us and the IBM Quantum team will send you an online Winner's Form to enter your mailing address.
