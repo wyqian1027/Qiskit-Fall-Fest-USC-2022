@@ -34,4 +34,4 @@ import qiskit.tools.jupyter
 
 - We will discuss the quantum problems during the Discussion period, and the solution will appear on Github shortly after the event.
 - The submitted notebook will be graded by (1) Correctness (2) Submission time.
-- The top scores will be contacted by us and the IBM Quantum team will send you an online Winner's Form to enter your mailing address.
+- The top scores will be contacted by us and the IBM Quantum team will send you an online Winner's Form to enter your mailing address for the swag pack.
