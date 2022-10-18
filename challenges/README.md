@@ -8,12 +8,12 @@
 2. [Install Qiskit](https://qiskit.org/documentation/getting_started.html) (in the Conda environment if you installed Conda)
 3. [Install Jupyter Lab](https://jupyter.org/install) via Pip.   
 4. Run Jupyter Lab   
-   If you installed Conda
+* If you installed Conda
 ```bash
 conda activate (your-env-name)
 jupyter lab
 ```
-   If you did not install Conda
+* If you did not install Conda
 ```bash
 jupyter lab
 ```
