@@ -17,7 +17,8 @@ jupyter lab
 ```bash
 jupyter lab
 ```
-5. Additional packages such as [Numpy](https://numpy.org/install/) will also need to be installed with either Conda or Pip.
+5. Additional packages such as [Numpy](https://numpy.org/install/) will also need to be installed with either Conda or Pip.   
+6. Open a Jupyter Notebook and run "import qiskit". If it is successful, then you successfully installed Qiskit.   
 
 ## During Quantum Challenge
 
