@@ -6,7 +6,7 @@
 - Here is the recommended installation procedure using Conda package manager. Alternatively you can also install Qiskit directly on your operating system via Pip.
 1. [Install Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) (if you are familiar with Conda)
 2. [Install Qiskit](https://qiskit.org/documentation/getting_started.html) (in the Conda environment if you installed Conda)
-3. [Install Jupyter Lab](https://jupyter.org/install) via Pip.
+3. [Install Jupyter Lab](https://jupyter.org/install) via Pip.   
 4a. Activate your environment with Conda and run Jupyter Lab if you installed Conda
 ```bash
 conda activate (your-env-name)
