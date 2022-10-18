@@ -17,7 +17,7 @@ jupyter lab
 ```bash
 jupyter lab
 ```
-5. Additional packages such as Numpy will also need to be installed with either Conda or Pip.
+5. Additional packages such as [Numpy](https://numpy.org/install/) will also need to be installed with either Conda or Pip.
 
 ## During Quantum Challenge
 
