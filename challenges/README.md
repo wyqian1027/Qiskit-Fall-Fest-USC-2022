@@ -3,13 +3,17 @@
 ## Qiskit Installation
 
 - It is advised to install Qiskit library properly on your computer before starting the quantum challenge
-- Here is the recommended installation procedure using Conda package manager.
+- Here is the recommended installation procedure using Conda package manager. Alternatively you can also install Qiskit directly on your operating system via Pip.
 1. [Install Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) (if you are familiar with Conda)
-2. [Install Qiskit](https://qiskit.org/documentation/getting_started.html) (in the Conda environment you installed Conda)
+2. [Install Qiskit](https://qiskit.org/documentation/getting_started.html) (in the Conda environment if you installed Conda)
 3. [Install Jupyter Lab](https://jupyter.org/install) via Pip.
-4. Activate your environment with Conda and run Jupyter Lab.
+4a. Activate your environment with Conda and run Jupyter Lab if you installed Conda
 ```bash
 conda activate (your-env-name)
+jupyter lab
+```
+4b. Run Jupyter Lab directly if you did not install Conda
+```bash
 jupyter lab
 ```
 5. Additional packages such as Numpy will also need to be installed with either Conda or Pip.
