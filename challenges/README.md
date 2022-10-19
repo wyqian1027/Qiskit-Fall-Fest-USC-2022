@@ -33,7 +33,7 @@ jupyter lab
 import qiskit.tools.jupyter
 %qiskit_version_table
 ```
-- Please submit your solution notebook by sending it to meijian.li@usc.es with the title "Qiskit-Fall-Fest-USC-2022 Challenge". We recommend that you use the same email as for the registration.
+- Please submit your solution notebook by sending it to meijian.li@usc.es with the title "Qiskit-Fall-Fest-USC-2022 Challenge Submission (First name, Last name)". We recommend that you use the same email as for the registration.
 
 ## After the Quantum Challenge
 
