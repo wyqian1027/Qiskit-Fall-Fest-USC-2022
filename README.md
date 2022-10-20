@@ -32,7 +32,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 ## Workshop Lecture Details
 - The lectures will be given by quantum computing experts at IGFAE.
 - This year's lectures will consist of two parts, and will cover introduction to quantum computing, quantum computing basics, quantum algorithm, and experimenting with Qiskit (open-source quantum ecosystem).
-- Lecture A: Introduction to quantum computing basics (English)
+- [Lecture A: Introduction to quantum computing basics](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Workshop%20and%20Lecture%20by%20WQ%20v2.1.pdf) (English)
 - Lecture B: Introduction to quantum teleportation and beyond (Spanish)
 
 ## Quantum Challenge Details 
