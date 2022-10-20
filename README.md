@@ -4,7 +4,7 @@
 Qiskit Fall Fest 2022 at University of Santiago de Compostela (USC), A Coruña, Spain (October 21st, Friday, 2022)
 
 ## Welcome
-This is the Qiskit Fall Fest 2022 event page for University of Santiago de Compostela (USC). We're so exciting to have you all here. This event is being hosted at the [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/).
+This is the Qiskit Fall Fest 2022 event page for University of Santiago de Compostela (USC). We're so exciting to have you all here. This event is being hosted at the [Instituto Galego de Fisica de Altas Enerxias (IGFAE)](https://igfae.usc.es/igfae/), Aula B.
 
 The Fall Fest at USC this year is going to be a **in-person workshops + quantum challenge** format, starting on October 21st, Friday, 2022. Details about the event and rules can be found below. The deadline for registration is October 20th, at 12pm CET. We are looking forward to seeing you at the event!
 
@@ -40,6 +40,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - Top 5 scores of the challenge will be given special prizes provided by IBM Quantum team (fall fest-themed Qiskit swag pack, including a hat, art supplies, and more). 
 - A personal computer is required to join the challenge.
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
+- There will be more seats and space in Aula C in case needed.
 
 
 ## Organizers
