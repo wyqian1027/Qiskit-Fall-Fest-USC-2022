@@ -1,0 +1,13 @@
+# Packages needed to run the notebooks
+# Can be installed using
+# >> pip install --upgrade -r requirements.txt
+#
+# Paquetes requeridos para correr los notebooks
+# Podemos ejecutar desde una consola de comandos
+# >> pip install --upgrade -r requirements.txt
+numpy
+matplotlib
+qiskit
+pylatexenc
+ipywidgets
+RISE
