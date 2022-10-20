@@ -13,7 +13,9 @@ conda activate (your-env-name)
 jupyter lab
 ```
 5. Additional packages such as [Numpy](https://numpy.org/install/) may also need to be installed with either Conda or Pip.   
-6. Open a Jupyter Notebook and run "import qiskit". If it is successful, then you successfully installed Qiskit.   
+6. Open a Jupyter Notebook and run "import qiskit". If it is successful, then you successfully installed Qiskit.  
+
+- It is also possible to run the repository without installing it locally using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wyqian1027/Qiskit-Fall-Fest-USC-2022/HEAD?urlpath=%2Ftree%2F), but it is extremelly not recommended as the changes that you make will not be saved automatically
 
 ## During Quantum Challenge
 
