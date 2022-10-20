@@ -32,7 +32,7 @@ Estamos orgullosos de traervos o Qiskit Fall Fest á USC. O noso equipo de organ
 ## Detalles das leccións do Workshop
 - As leccións van ser impartidas por expertos en computación cuántica do IGFAE.
 - As leccións deste ano van a cubrir unha introdución á computación cuántica, fundamentos da computación cuántica, algoritmos cuánticos, e experimentos con Qiskit (un ecosistema cuántico de código aberto). Consta de dúas partes:
-- Lección A: Introdución aos fundamentos da computación cuántica (inglés)
+- [Lección A: Introdución aos fundamentos da computación cuántica](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Workshop%20and%20Lecture%20by%20WQ%20v2.1.pdf) (inglés)
 - Lección B: Introdución á teletransportación cuántica e máis alá (castelán)
 
 ## Detalles do desafío cuántico 
