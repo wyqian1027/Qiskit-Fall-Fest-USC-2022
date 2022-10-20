@@ -33,7 +33,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - The lectures will be given by quantum computing experts at IGFAE.
 - This year's lectures will consist of two parts, and will cover introduction to quantum computing, quantum computing basics, quantum algorithm, and experimenting with Qiskit (open-source quantum ecosystem).
 - [Lecture A: Introduction to quantum computing basics](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Workshop%20and%20Lecture%20by%20WQ%20v2.1.pdf) (English)
-- Lecture B: Introduction to quantum teleportation and beyond (Spanish)
+- [Lecture B: Introduction to quantum teleportation and beyond](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Lecture%20Entanglement%20and%20Teleportation%20JSS.ipynb) (Spanish)
 
 ## Quantum Challenge Details 
 - You will be doing problem solvings on 3-4 quantum challenge problems, related to the workshop lectures, with help from mentors. 
@@ -42,6 +42,8 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
 - There will be more seats and space in Aula C in case needed.
 
+## Research in Quantum computing
+- Talk slide: [Quantum Simulation of Jet Quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English)
 
 ## Organizers
 Wenyang Qian  
