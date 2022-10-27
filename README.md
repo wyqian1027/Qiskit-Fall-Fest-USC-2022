@@ -42,6 +42,13 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - It is advised to install related environment and packages before the quantum challenge (See [Instruction](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/challenges/README.md) here). You are welcome to ask mentor for help on installation during the challenge if you have any trouble.
 - There will be more seats and space in Aula C in case needed.
 
+### Congratulations to the Top 5 challenge winners!!!   
+(1st place) **Álvaro Magdalena Iglesias**   
+(2nd place) **Roberto Losada**   
+(3rd place) **José, Pazos Pérez**   
+(4th place) **Alejandro, Mata Ali**   
+(5th place) **Brais, Rodriguez Rodriguez**   
+
 ## Research in Quantum computing
 - [Quantum simulation of jet quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English) [[Youtube video]](https://www.youtube.com/watch?v=M_GQc1nrgKg)
 
