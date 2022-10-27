@@ -32,8 +32,8 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 ## Workshop Lecture Details
 - The lectures will be given by quantum computing experts at IGFAE.
 - This year's lectures will consist of two parts, and will cover introduction to quantum computing, quantum computing basics, quantum algorithm, and experimenting with Qiskit (open-source quantum ecosystem).
-- [Lecture A: Introduction to quantum computing basics](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Workshop%20and%20Lecture%20by%20WQ%20v2.1.pdf) (English) [YouTube](https://www.youtube.com/watch?v=QZgrTQtiMcU)
-- [Lecture B: Introduction to quantum teleportation and beyond](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Lecture%20Entanglement%20and%20Teleportation%20JSS.ipynb) (Spanish) [YouTube](https://www.youtube.com/watch?v=g4aaXg_4wzc)
+- [Lecture A: Introduction to quantum computing basics](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Workshop%20and%20Lecture%20by%20WQ%20v2.1.pdf) (English) [YouTube video](https://www.youtube.com/watch?v=QZgrTQtiMcU)
+- [Lecture B: Introduction to quantum teleportation and beyond](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/lectures/Qiskit%20Fall%20Fest%20Lecture%20Entanglement%20and%20Teleportation%20JSS.ipynb) (Spanish) [YouTube video](https://www.youtube.com/watch?v=g4aaXg_4wzc)
 
 ## Quantum Challenge Details 
 - You will be doing problem solvings on 3-4 quantum challenge problems, related to the workshop lectures, with help from mentors. 
@@ -43,7 +43,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - There will be more seats and space in Aula C in case needed.
 
 ## Research in Quantum computing
-- [Quantum simulation of jet quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English) [Youtube](https://www.youtube.com/watch?v=M_GQc1nrgKg)
+- [Quantum simulation of jet quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English) [Youtube video](https://www.youtube.com/watch?v=M_GQc1nrgKg)
 
 ## Organizers
 Wenyang Qian  
