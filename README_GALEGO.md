@@ -50,5 +50,7 @@ Meijian Li
 Juan Santos Suárez  
 Xoán Mayo López
 
+![image](https://user-images.githubusercontent.com/42972544/197410129-54197471-bb4a-43f9-a493-f8a117a57a78.png)
+
 <br><br>
 # [Código de conducta do evento qiskit](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
