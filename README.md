@@ -43,7 +43,7 @@ We are proud to welcome you to the USC Qiskit Fall Fest. Our team of organizers 
 - There will be more seats and space in Aula C in case needed.
 
 ## Research in Quantum computing
-- [Quantum simulation of jet quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English) []Youtube video]](https://www.youtube.com/watch?v=M_GQc1nrgKg)
+- [Quantum simulation of jet quenching](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022/blob/main/research_talk/Qiskit_FF2022_Research_talk.pdf) (English) [[Youtube video]](https://www.youtube.com/watch?v=M_GQc1nrgKg)
 
 ## Organizers
 Wenyang Qian  
